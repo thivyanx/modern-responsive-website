@@ -1,4 +1,4 @@
-<!-------------------------JS for testimonial----------------------------------------->
+// JS for testimonial
 
 
 
@@ -27,8 +27,7 @@
     
   
 
-<!-------------------------JS for Our-Commitment----------------------------------------->
-
+// JS for Our-Commitment
 
     document.addEventListener('DOMContentLoaded', () => {
       const image = document.querySelector('.imagess');
@@ -53,7 +52,7 @@
 
     
 
-<!-------------------JS for Facilities ani-------------------------------------->
+// JS for Facilities ani
 
 
     let next = document.querySelector('.next')
@@ -72,7 +71,7 @@
 
 
 
-<!------------------JS for scroll ani---------------------------------->
+// JS for scroll ani
 
 
     const observer = new IntersectionObserver((entries) => {
@@ -107,7 +106,7 @@
 
 
 
-<!------------------Play btn--------------------------------->
+// Play btn
 
 
     const playBtn = document.querySelector(".play-btn");
@@ -127,7 +126,7 @@
 
 
         
-<!---------------------JS for image-------------------------->
+// JS for image
 
 
     const image = document.getElementById("parallaxImage");
@@ -143,7 +142,7 @@
   
   
 
-<!---------------------JS for Toggle Menu-------------------------->
+// JS for Toggle Menu
 
     const navLinks = document.getElementById("navLinks");
 
